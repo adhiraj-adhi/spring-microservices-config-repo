@@ -1,5 +1,5 @@
 build:
-  version: 1.0
+  version: 1.1
 accounts:
   message: "{cipher}c22530d696e50491e30a854bf8183090310cb7d2cd6f0ad46d082c8019733e96f92034a62a85dca51b8f350b96a171e7d1cf5ad7565739367866ed2b41acf2d2" # Encrypted - "Welcome to Accounts Service! - Prod Environment"
   contactDetails:
