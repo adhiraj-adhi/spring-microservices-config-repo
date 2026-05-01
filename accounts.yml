@@ -1,7 +1,7 @@
 build:
   version: 3.0
 accounts:
-  message: "Welcome to Accounts Service! - Default Environ"
+  message: "Welcome to Accounts Service! - Default Environment"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe@xyzbank.com"
